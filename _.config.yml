@@ -5,7 +5,7 @@ relative_links:
   collections: true
 include:
   - README.md
-  - 0 Introduction 21ce36f307bb4ecfb11cd42d017fad4a.md
+  - 0_Introduction.md
   - 1 Network Overview 2690866d41c7475f99358e9fd3b1723c.md
   - 2 Linux Operation System cd0671ac270447188fe0e0fdfe8dcae7.md
   - 3 Versioning Control System 34d2daeaffc8424eb3d607527f072950.md
