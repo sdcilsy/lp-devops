@@ -27,6 +27,7 @@ future              : false
 unpublished         : false
 
 # Plugins
+theme               : jekyll-theme-minimal
 whitelist           : []
 plugins             : []
 
